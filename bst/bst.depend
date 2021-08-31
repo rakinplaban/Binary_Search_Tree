@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1629277849 source:c:\users\rakin shahriar\desktop\fib\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1630332947 source:c:\users\rakin shahriar\desktop\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
